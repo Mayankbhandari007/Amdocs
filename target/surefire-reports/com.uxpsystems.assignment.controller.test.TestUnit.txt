@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.uxpsystems.assignment.controller.test.TestUnit
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.547 s - in com.uxpsystems.assignment.controller.test.TestUnit
